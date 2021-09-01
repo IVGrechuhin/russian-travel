@@ -1,0 +1,31 @@
+.lead__capture {
+  width: 77%;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 8px auto 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__capture {
+    width: 90.625%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__capture {
+    width: 160px;
+    margin: 8px 0 0 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .lead__capture {
+    margin: 8px 0 0 16px;
+  }
+}

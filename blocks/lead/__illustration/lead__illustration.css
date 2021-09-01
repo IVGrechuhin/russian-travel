@@ -1,7 +1,7 @@
 .lead__illustration {
   display: block;
   width: 77%;
-  margin: 0 auto 114px;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 1024px) {
