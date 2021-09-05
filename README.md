@@ -18,4 +18,4 @@
 
 # Ссылка на GHPages
 
-[Путешествия по России](https://practicum.yandex.ru/)
+[Путешествия по России - "ivgrechuhin.github.io/russian-travel/"](https://ivgrechuhin.github.io/russian-travel/)
