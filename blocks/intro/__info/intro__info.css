@@ -1,6 +1,5 @@
 .intro__info {
-  width: 690px;
-  font-family: Inter;
+  max-width: 690px;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -12,12 +11,12 @@
 
 @media screen and (max-width: 768px) {
   .intro__info {
-    width: 93.72%;
+    max-width: 93.72%;
   }
 }
 
 @media screen and (max-width: 425px) {
   .intro__info {
-    width: 90%;
+    max-width: 90%;
   }
 }
