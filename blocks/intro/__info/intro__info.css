@@ -12,11 +12,12 @@
 @media screen and (max-width: 768px) {
   .intro__info {
     max-width: 93.72%;
+    width: 93.72%;
   }
 }
 
 @media screen and (max-width: 425px) {
   .intro__info {
-    max-width: 90%;
+    width: 90%;
   }
 }
