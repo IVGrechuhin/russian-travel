@@ -1,3 +1,5 @@
 .header__links {
+  display: flex;
+  column-gap: 18px;
   margin-bottom: 6px;
 }
