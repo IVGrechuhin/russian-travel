@@ -7,22 +7,24 @@
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 860px) {
   .place__title {
     font-size: 42px;
     line-height: 46px;
   }
 }
 
-@media (max-width: 520px) {
+@media (max-width: 650px) {
   .place__title {
-    font-size: 32px;
-    line-height: 35px;
+    font-size: 36px;
+    line-height: 38px;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 550px) {
   .place__title {
+    font-size: 32px;
+    line-height: 35px;
     padding: 0 16px;
     margin-bottom: 32px;
   }

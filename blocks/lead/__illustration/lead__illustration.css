@@ -1,17 +1,5 @@
 .lead__illustration {
+  width: 100%;
   display: block;
-  width: 77%;
   margin: 0 auto;
-}
-
-@media screen and (max-width: 1024px) {
-  .lead__illustration {
-    width: 90.625%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead__illustration {
-    width: 100%;
-  }
 }

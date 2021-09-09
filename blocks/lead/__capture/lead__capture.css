@@ -1,5 +1,5 @@
 .lead__capture {
-  width: 77%;
+  width: 100%;
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
@@ -8,12 +8,6 @@
   text-transform: uppercase;
   color: #fff;
   margin: 8px auto 0;
-}
-
-@media screen and (max-width: 1024px) {
-  .lead__capture {
-    width: 90.625%;
-  }
 }
 
 @media screen and (max-width: 768px) {

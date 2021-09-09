@@ -7,18 +7,18 @@
   margin: 0 0 26px 0;
 }
 
-.place__paragraph:nth-child(2) {
+.place__paragraph:last-child {
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 860px) {
   .place__paragraph {
     font-size: 16px;
     line-height: 26px;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 550px) {
   .place__paragraph {
     padding: 0 16px;
   }
